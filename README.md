@@ -96,7 +96,7 @@ I’m a "vibe coder" who likes to crack the whip on AI, making it work overtime 
 ## 🏙️ 3D City Contribution View
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/akuntumbal/akuntumbal/main/profile-3d-contrib/profile-night-view.svg" alt="3D city contribution view" />
+  <img  src="https://raw.githubusercontent.com/akuntumbalsajen-cmd/akuntumbalsajen-cmd/main/profile-3d-contrib/profile-night-view.svg" alt="3D city contribution view" />
 </p>
 
 ## 💭 Dev Quote
